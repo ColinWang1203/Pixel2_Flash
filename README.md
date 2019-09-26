@@ -32,7 +32,7 @@ Last line add :
 + //mAmInternal.enforceCallerIsRecentsOrHasPermission(android.Manifest.permission.STATUS_BAR, 
 + //        "setShelfHeight()"); 
 
-6. wget https://dl.google.com/dl/android/aosp/google_devices-walleye-pq2a.190205.002-a5b43ffa.tgz 
+6. wget https://dl.google.com/dl/android/aosp/google_devices-walleye-pq2a.190205.002-a5b43ffa.tgz  
    wget https://dl.google.com/dl/android/aosp/qcom-walleye-pq2a.190205.002-d5cc3341.tgz 
    
 7. tar xvfz google_devices-walleye-pq2a.190205.002-a5b43ffa.tgz  
