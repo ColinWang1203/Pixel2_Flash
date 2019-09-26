@@ -28,7 +28,7 @@ Last line add :
 
 5. vi frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java 
 - -mAmInternal.enforceCallerIsRecentsOrHasPermission(android.Manifest.permission.STATUS_BAR, 
-- - "setShelfHeight()"); 
+- -"setShelfHeight()"); 
 + +//mAmInternal.enforceCallerIsRecentsOrHasPermission(android.Manifest.permission.STATUS_BAR, 
 + +//        "setShelfHeight()"); 
 
