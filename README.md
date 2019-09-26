@@ -41,6 +41,6 @@ Last line add :
    ./extract-qcom-walleye.sh  
 8. repo sync 
 
-9. . build/envsetup.sh 
-   lunch aosp_walleye-userdebug 
-   make -j8 
+9. . build/envsetup.sh  
+   lunch aosp_walleye-userdebug  
+   make -j8  
