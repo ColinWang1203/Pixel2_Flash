@@ -35,10 +35,10 @@ Last line add :
 6. wget https://dl.google.com/dl/android/aosp/google_devices-walleye-pq2a.190205.002-a5b43ffa.tgz  
    wget https://dl.google.com/dl/android/aosp/qcom-walleye-pq2a.190205.002-d5cc3341.tgz 
    
-7. tar xvfz google_devices-walleye-pq2a.190205.002-a5b43ffa.tgz  
-   tar xvfz qcom-walleye-pq2a.190205.002-d5cc3341.tgz  
-   ./extract-google_devices-walleye.sh 
-   ./extract-qcom-walleye.sh 
+7. tar xvfz google_devices-walleye-pq2a.190205.002-a5b43ffa.tgz   
+   tar xvfz qcom-walleye-pq2a.190205.002-d5cc3341.tgz   
+   ./extract-google_devices-walleye.sh  
+   ./extract-qcom-walleye.sh  
 8. repo sync 
 
 9. . build/envsetup.sh 
