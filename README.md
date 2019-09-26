@@ -16,6 +16,7 @@ add :
 
   <project path="vendor/opengapps/sources/x86" name="x86" clone-depth="1" revision="master" remote="nezor" />
   <project path="vendor/opengapps/sources/x86_64" name="x86_64" clone-depth="1" revision="master" remote="nezor" />
+
 3. vi device/google/muskie/aosp_walleye.mk
 - PRODUCT_RESTRICT_VENDOR_FILES := owner
 + PRODUCT_RESTRICT_VENDOR_FILES := false
